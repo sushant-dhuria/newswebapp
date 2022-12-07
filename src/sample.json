@@ -1,0 +1,137 @@
+{
+    "status" : "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Pound sinks as investors question huge tax cuts",
+    "description": "Markets worry over the outlook for government finances following the biggest tax cutting moves in 50 years.",
+    "url": "http://www.bbc.co.uk/news/business-63009173",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4267/production/_125799961_dollar_sterling_getty.jpg",
+    "publishedAt": "2022-09-24T10:07:17.4936626Z",
+    "content": "By Noor NanjiBusiness reporter, BBC News\r\nThe pound has fallen to a fresh 37-year low against the dollar as financial markets reacted to the biggest tax cutting moves in 50 years.\r\nUK stocks also dro… [+5468 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Louise Fletcher: One Flew Over the Cuckoo's Nest's Nurse Ratched dies aged 88",
+    "description": "Fletcher won an Oscar for her memorable portrayal of the film's villainous Nurse Ratched.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-63019250",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/64F3/production/_126834852_gettyimages-180971965.jpg",
+    "publishedAt": "2022-09-24T09:52:19.9474006Z",
+    "content": "By Elsa MaishmanBBC News\r\nLouise Fletcher, who won an Oscar for her unforgettable role as Nurse Ratched in One Flew Over the Cuckoo's Nest, has died aged 88. \r\nThe US actress died at her home in the … [+2345 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US abortion rights: Arizona judge approves return to 19th century near-total ban",
+    "description": "The ban, which predates the state's founding, allows exemptions only to save the mother's life.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63019248",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B697/production/_126834764_mediaitem126834763.jpg",
+    "publishedAt": "2022-09-24T09:07:17.9930011Z",
+    "content": "By Elsa MaishmanBBC News\r\nA near-total ban on abortion dating from 1864 must be enforced in Arizona, a judge has ruled. \r\nThe judge lifted an injunction which barred enforcement of a law allowing abo… [+1598 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Controversial referendums being held in occupied areas of Ukraine",
+    "description": "Russian-backed officials in four occupied regions are holding votes to decide on joining Russia.",
+    "url": "http://www.bbc.co.uk/news/live/world-63002591",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2022-09-24T07:22:24.8997699Z",
+    "content": "Service members of the self-proclaimed Luhansk People's Republic vote during a referendum in Luhansk on FridayImage caption: Service members of the self-proclaimed Luhansk People's Republic vote duri… [+882 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "EU 'must take seriously' Putin nuclear threats - Borrell",
+    "description": "EU foreign policy chief Josep Borrell told the BBC a dangerous moment had been reached in the Ukraine war.",
+    "url": "http://www.bbc.co.uk/news/world-europe-63016675",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/111FF/production/_126834107_de27-1.jpg",
+    "publishedAt": "2022-09-24T05:22:20.3850475Z",
+    "content": "The EU must not ignore Vladimir Putin's threats that he could use nuclear weapons in the conflict in Ukraine, the bloc's foreign policy chief has said. \r\nJosep Borrell told the BBC's Lyse Doucet that… [+2969 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Italian election campaign ends as far right bids for power",
+    "description": "Political leaders hold rallies ahead of elections on Sunday that could bring Giorgia Meloni to power.",
+    "url": "http://www.bbc.co.uk/news/world-europe-63015911",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73B7/production/_126832692_melonifri.jpg",
+    "publishedAt": "2022-09-23T23:22:22.5720238Z",
+    "content": "By Paul KirbyBBC News, Rome\r\nItaly's political leaders have brought their campaigns to a close ahead of pivotal elections on Sunday that could deliver the most right-wing government since the war.\r\nG… [+4112 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donors spending millions on Trump's legal battles",
+    "description": "The former president's mounting bills are being paid by donors and the Republican party.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62998508",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11801/production/_126818617_trumpohio.jpg",
+    "publishedAt": "2022-09-23T22:52:20.2286364Z",
+    "content": "By Bernd Debusmann Jr BBC News, Washington \r\nAs Donald Trump's legal woes mount, donors and the Republican party have paid millions in dollars of his legal fees.\r\nHis newest legal headache saw him an… [+5714 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Magnus Carlsen and Hans Niemann: The cheating row that's blowing up the chess world",
+    "description": "Magnus Carlsen's apparent accusation against Hans Niemann is the biggest chess scandal in years.",
+    "url": "http://www.bbc.co.uk/news/world-63010107",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C3A2/production/_126828005_carlsen.jpg",
+    "publishedAt": "2022-09-23T21:37:20.1345984Z",
+    "content": "By Alex TherrienBBC News journalist and Fide Master chess player\r\nWhen Magnus Carlsen and Hans Niemann sat down to play each other earlier this month in the third round of chess's Sinquefield Cup, fe… [+8231 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Iran protests: US to ease internet curbs for Iranians",
+    "description": "The move comes after Iran tries to clamp down on internet freedom to stamp out widespread protests.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-63013359",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B741/production/_126831964_gettyimages-1243411696.jpg",
+    "publishedAt": "2022-09-23T21:07:19.1654812Z",
+    "content": "By Merlyn ThomasBBC News\r\nThe US says it will ease internet curbs on Iran to counter Tehran's clampdown on protests which were sparked by a woman's death in police custody.\r\n\"We are going to help mak… [+1681 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hurricane Fiona: Canadians brace for flooding, outages",
+    "description": "Florida is also on hurricane watch, as Hurricane Hermine makes its way to the US southwest coast.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63011195",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12D88/production/_126829177_gettyimages-1243408237.jpg",
+    "publishedAt": "2022-09-23T15:07:27.4153353Z",
+    "content": "Hurricane Fiona has pummelled Bermuda with heavy rains and winds early Friday on its way up to Canada's Atlantic coast. \r\nOfficials in Canada have urged residents in the country's eastern provinces t… [+2108 chars]"
+    }
+    ]
+    }
+    
